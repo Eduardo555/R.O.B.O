@@ -3,8 +3,8 @@
 - Minimal API - .Net core 7.0.401
      - Instruções para executar
         - Abrir terminal na pasta
-        - npm install
-        - npm run dev
+        - dotnet run
+
 - Front End - React Js Vite.
     - Instruções para executar
         - Abrir terminal na pasta
