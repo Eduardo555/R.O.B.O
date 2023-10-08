@@ -9,6 +9,6 @@
     - Instruções para executar
         - Abrir terminal na pasta RoboFront
         - npm install
-        - Verificar variavel const url = "http://localhost:5139/api" em App.tsx, se necessário atualizar para a porta correta
+        - Verificar variável const url = "http://localhost:5139/api" em App.tsx, se necessário atualizar para a porta correta
         - npm run dev
 - npm version - 9.6.7
