@@ -1,2 +1,5 @@
 # R.O.B.O-API
-API R.O.B.O
+
+## Minimal API - .Net core 7.0.401
+## Front End - React Js Vite.
+### npm version - 9.6.7
